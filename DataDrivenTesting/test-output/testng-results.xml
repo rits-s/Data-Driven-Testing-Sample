@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="230" started-at="2021-04-14T11:01:09Z" finished-at="2021-04-14T11:01:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="230" started-at="2021-04-14T11:01:09Z" finished-at="2021-04-14T11:01:10Z">
+      <class name="pkg1.DataDrivenTest">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:pkg1.DataDrivenTest@48fa0f47]" name="test1" duration-ms="16" started-at="2021-04-14T21:01:10Z" data-provider="method2" finished-at="2021-04-14T21:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:pkg1.DataDrivenTest@48fa0f47]" name="test1" duration-ms="0" started-at="2021-04-14T21:01:10Z" data-provider="method2" finished-at="2021-04-14T21:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:pkg1.DataDrivenTest@48fa0f47]" name="test1" duration-ms="16" started-at="2021-04-14T21:01:10Z" data-provider="method2" finished-at="2021-04-14T21:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:pkg1.DataDrivenTest@48fa0f47]" name="test1" duration-ms="0" started-at="2021-04-14T21:01:10Z" data-provider="method2" finished-at="2021-04-14T21:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:pkg1.DataDrivenTest@48fa0f47]" name="test1" duration-ms="0" started-at="2021-04-14T21:01:10Z" data-provider="method2" finished-at="2021-04-14T21:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:pkg1.DataDrivenTest@48fa0f47]" name="test1" duration-ms="0" started-at="2021-04-14T21:01:10Z" data-provider="method2" finished-at="2021-04-14T21:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:pkg1.DataDrivenTest@48fa0f47]" name="test1" duration-ms="0" started-at="2021-04-14T21:01:10Z" data-provider="method2" finished-at="2021-04-14T21:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:pkg1.DataDrivenTest@48fa0f47]" name="test1" duration-ms="0" started-at="2021-04-14T21:01:10Z" data-provider="method2" finished-at="2021-04-14T21:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:pkg1.DataDrivenTest@48fa0f47]" name="test1" duration-ms="16" started-at="2021-04-14T21:01:10Z" data-provider="method2" finished-at="2021-04-14T21:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:pkg1.DataDrivenTest@48fa0f47]" name="test1" duration-ms="6" started-at="2021-04-14T21:01:10Z" data-provider="method2" finished-at="2021-04-14T21:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- pkg1.DataDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
